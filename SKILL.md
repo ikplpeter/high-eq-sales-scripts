@@ -1,0 +1,9 @@
+{
+    "name": "HighEQ Sales Scripts",
+    "version": "1.0.0",
+    "description": "A comprehensive skill for high-EQ communication and sales, covering everyday awkward situations, workplace conflicts, and membership upselling for spas, restaurants, and barbershops. Includes harassment prevention and graceful exit strategies.",
+    "author": "ikplpeter",
+    "tags": ["sales", "communication", "high-eq", "spas", "membership", "anti-harassment", "boundary-setting"],
+    "language": "en, zh",
+    "entry": "system.md"
+}
